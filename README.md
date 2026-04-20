@@ -9,6 +9,7 @@
 <br>
 </div>
 
+---
 ## 👋 About Me
 
 Hi, I'm **Shri Bhagwan Kumar** — a dedicated developer focused on **real-world problem solving, full-stack development, and AI-based solutions**.
