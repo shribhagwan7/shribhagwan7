@@ -133,6 +133,11 @@ Hi, I'm **Shri Bhagwan Kumar** — a dedicated developer focused on **real-world
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
+<br><br>
+
+> "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.  
+> The world is yours — build it, improve it, and leave it better than you found it."
+
 </div>
 
 ---
