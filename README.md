@@ -8,9 +8,6 @@
 </a>
 <br>
 </div>
-
-</div>
-<br>
 ---
 
 ## 👋 About Me
