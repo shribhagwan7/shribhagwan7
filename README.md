@@ -99,15 +99,23 @@ Hi, I'm **Shri Bhagwan Kumar** — a dedicated developer focused on **real-world
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shribhagwankr/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="mailto:official.shribhagwan7@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/sbbs_kushwaha/" target="_blank">
+<a href="https://github.com/shribhagwan7">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ShriBhagwanKumar/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shribhagwankr/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/sbbs_kushwaha/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
