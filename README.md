@@ -4,13 +4,10 @@
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=BCA+Student+%7C+Aspiring+Software+Engineer;C%2B%2B+%7C+DSA+%7C+Problem+Solver;Building+Real+World+Projects;AI+%7C+Full+Stack+Developer+%F0%9F%9A%80" />
+  <img src="https://komarev.com/ghpvc/?username=shribhagwan7&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </a>
 
 </div>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=shribhagwan7&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 
 </div>
 
