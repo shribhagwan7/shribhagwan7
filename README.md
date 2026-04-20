@@ -3,12 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=SBBS%20Kushwaha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20C%2B%2B%20%7C%20DSA%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=BCA+Student+%7C+Aspiring+Software+Engineer;C%2B%2B+%7C+DSA+%7C+Problem+Solver;Building+Real+World+Projects;AI+%7C+Full+Stack+Developer+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=BCA+Student+%7C+Aspiring+Software+Engineer;C%2B%2B+%7C+DSA+%7C+Problem+Solver;Building+Real+World+Projects;AI+%7C+Full+Stack+Developer+🚀" />
 </a>
 
 <br><br>
 
+<a href="https://github.com/yourusername">
 <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</a>
 
 </div>
 
@@ -16,42 +18,28 @@
 
 ## 👋 About Me
 
-Hi, I'm **SBBS Kushwaha** — a dedicated developer focused on **real-world problem solving, full-stack development, and AI-based solutions**.
+Hi, I'm **SBBS Kushwaha** — passionate about building scalable apps and solving real-world problems.
 
 - 🎓 BCA Final Year Student  
 - 💻 Full Stack Developer  
-- 🧠 Strong in **C++ | DSA**  
-- 🚀 Building **BugSage (AI Debugging Assistant)**  
-- 🛒 Developed **GreenCart (E-commerce App)**  
-- 📺 Built **YouTube Clone (API Integration)**  
-- 🔥 Solved **100+ Problems on LeetCode**  
-- 🎯 Goal: Become a Software Engineer  
+- 🧠 C++ | DSA Enthusiast  
+- 🚀 Working on **BugSage (AI Debugging Assistant)**  
+- 🛒 Built **GreenCart (E-commerce App)**  
+- 📺 Created **YouTube Clone**  
+- 🔥 Solved 100+ LeetCode Problems  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 BugSage – AI Debugging Assistant
-> Smart tool to detect & explain coding errors  
-- AI-based error analysis  
-- Context-aware suggestions  
-- Full-stack architecture  
+### 🧠 BugSage – AI Debugging Assistant  
+AI-powered error detection & explanation system  
 
----
+### 🛒 GreenCart – E-commerce Platform  
+Cart | Orders | Payments | Full-stack  
 
-### 🛒 GreenCart – E-commerce Platform
-> Complete shopping experience  
-- Cart & Order Management  
-- Payment Integration (COD + Online)  
-- Backend + Frontend  
-
----
-
-### 📺 YouTube Clone
-> Video browsing platform using API  
-- Fetch videos via API  
-- Responsive UI  
-- Pure HTML, CSS, JS  
+### 📺 YouTube Clone  
+API-based video platform (HTML, CSS, JS)  
 
 ---
 
@@ -59,7 +47,29 @@ Hi, I'm **SBBS Kushwaha** — a dedicated developer focused on **real-world prob
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,nodejs,express,mongodb,git,github,vscode" />
+<a href="https://en.cppreference.com/">
+<img src="https://skillicons.dev/icons?i=cpp" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" />
+</a>
+
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" />
+</a>
+
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
 
 </div>
 
@@ -69,37 +79,53 @@ Hi, I'm **SBBS Kushwaha** — a dedicated developer focused on **real-world prob
 
 <div align="center">
 
+<a href="https://github.com/yourusername">
 <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+</a>
 
+<a href="https://github.com/yourusername">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%" />
+</a>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
+<a href="https://github.com/yourusername">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</a>
 
 </div>
 
 ---
 
-## 🧠 LeetCode Stats
+## ⚔️ LeetCode Stats (LIVE)
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains+Mono&ext=heatmap" width="60%" />
+<a href="https://leetcode.com/u/ShriBhagwanKumar/">
+<img src="https://leetcard.jacoblin.cool/ShriBhagwanKumar?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0" width="60%" />
+</a>
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ShriBhagwanKumar/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 <a href="https://linkedin.com/in/YOUR-LINK">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -113,7 +139,7 @@ Hi, I'm **SBBS Kushwaha** — a dedicated developer focused on **real-world prob
 
 ---
 
-## 💡 Developer Quote
+## 💡 Quote
 
 <div align="center">
 
@@ -125,6 +151,6 @@ Hi, I'm **SBBS Kushwaha** — a dedicated developer focused on **real-world prob
 
 <div align="center">
 
-🔥 **Consistency + Projects + DSA = Success** 🔥  
+🔥 **Consistency + DSA + Projects = Placement 🚀**
 
 </div>
