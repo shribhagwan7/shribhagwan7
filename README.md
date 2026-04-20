@@ -1,25 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Shri%20Bhagwan%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shri%20Bhagwan%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;DSA+%7C+Problem+Solver;Building+Scalable+Web+Apps+🚀" />
+<!-- RUNNING / ANIMATED DESC -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;DSA+%7C+Problem+Solver;Building+Scalable+Web+Applications+🚀" />
 
-<br>
+<br><br>
 
-<a href="mailto:official.shribhagwan7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<!-- CLICKABLE ICONS (FIXED) -->
+<a href="mailto:official.shribhagwan7@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github"/>
+<a href="https://github.com/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://leetcode.com/u/ShriBhagwanKumar/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -28,22 +34,34 @@
 
 ## 👋 About Me
 
-Hi, I'm **Shri Bhagwan Kumar** — a Full Stack Developer focused on building scalable and real-world web applications.
+Hi, I'm **Shri Bhagwan Kumar** — a Full Stack Developer focused on building scalable and real-world applications.
 
-- 💻 Skilled in **React, Node.js, Express, MongoDB**
-- 🎯 Strong foundation in **DSA & Problem Solving**
-- 🚀 Passionate about building impactful products
-- 🏆 Ranked among **Top 1%** in academics
+- 💻 React | Node.js | MongoDB  
+- 🧠 Strong in C++ & DSA  
+- 🚀 Building production-ready projects  
+- 🏆 Top 1% in academics  
 
 ---
 
-## 🎓 Education
+## 🚀 Projects
 
-- 🎓 **BCA (2023 – 2026)**  
-  Shobhit Institute of Engineering & Technology, Meerut  
+### 🛒 GreenCart (E-commerce)
+- Full-stack app with JWT auth  
+- Cart, Orders, Payment  
+- React + Tailwind + Node  
 
-- 📘 12th (PCM) – 75% (2023)  
-- 📘 10th – 90% (2021)  
+### 📋 TaskPilot (Ongoing)
+- Project management system  
+- Role-based auth (Clerk)  
+- PERN stack  
+
+### 🏥 bookDoctor
+- Appointment booking system  
+- Search, filter, notifications  
+
+### 🍔 Swiggy Clone
+- Food ordering UI  
+- Cart + payment + dark mode  
 
 ---
 
@@ -51,44 +69,31 @@ Hi, I'm **Shri Bhagwan Kumar** — a Full Stack Developer focused on building sc
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,c,git,github,postman" />
+<a href="https://en.cppreference.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=cpp" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" />
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" />
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
 
 </div>
-
----
-
-## 🚀 Projects
-
-### 🛒 GreenCart – E-commerce Web App  
-🔗 *Live Project Available*  
-- Full-stack e-commerce platform  
-- JWT authentication + MongoDB  
-- Order tracking & cart system  
-- Responsive UI using React & Tailwind  
-
----
-
-### 📋 TaskPilot – Project Management App *(Ongoing)*  
-- PERN stack based platform  
-- Role-based authentication (Clerk)  
-- Task tracking, comments, notifications  
-- Prisma + PostgreSQL backend  
-
----
-
-### 🏥 bookDoctor – Appointment Booking System  
-🔗 *Live Project Available*  
-- Appointment scheduling system  
-- Search & filtering with MongoDB  
-- Real-time updates & notifications  
-
----
-
-### 🍔 Swiggy Clone  
-🔗 *Live Project Available*  
-- Food ordering system  
-- Cart & payment features  
-- Shimmer UI + dark mode  
 
 ---
 
@@ -108,19 +113,11 @@ Hi, I'm **Shri Bhagwan Kumar** — a Full Stack Developer focused on building sc
 
 <div align="center">
 
-<a href="https://leetcode.com/u/ShriBhagwanKumar/">
+<a href="https://leetcode.com/u/ShriBhagwanKumar/" target="_blank">
 <img src="https://leetcard.jacoblin.cool/ShriBhagwanKumar?theme=dark&ext=heatmap" width="100%" />
 </a>
 
 </div>
-
----
-
-## 🏆 Achievements
-
-- 🧠 Solved **120+ LeetCode Problems**
-- 🥇 1st Prize (2x) in Coding Competitions  
-- 📈 Strong DSA & Problem Solving Skills  
 
 ---
 
@@ -134,14 +131,8 @@ Hi, I'm **Shri Bhagwan Kumar** — a Full Stack Developer focused on building sc
 
 ---
 
-## 💡 Quote
-
-> "Consistency + Projects + DSA = Success 🚀"
-
----
-
 <div align="center">
 
-🔥 Keep Building | Keep Growing 🔥
+🔥 **Consistency + DSA + Projects = Placement 🚀**
 
 </div>
