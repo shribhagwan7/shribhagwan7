@@ -1,32 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shri%20Bhagwan%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Shri%20Bhagwan%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<!-- RUNNING / ANIMATED DESC -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;DSA+%7C+Problem+Solver;Building+Scalable+Web+Applications+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;C%2B%2B+%7C+DSA+%7C+Problem+Solver;Building+Scalable+Web+Apps+🚀" />
 
-<br><br>
+<br>
 
-<!-- CLICKABLE ICONS (FIXED) -->
-<a href="mailto:official.shribhagwan7@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yourusername" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/ShriBhagwanKumar/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet&style=flat" />
+<img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat&color=blue" />
 
 </div>
 
@@ -34,10 +15,11 @@
 
 ## 👋 About Me
 
-Hi, I'm **Shri Bhagwan Kumar** — a Full Stack Developer focused on building scalable and real-world applications.
+Hi, I'm **Shri Bhagwan Kumar** — a passionate Full Stack Developer focused on building scalable and real-world applications.
 
-- 💻 React | Node.js | MongoDB  
-- 🧠 Strong in C++ & DSA  
+- 🎓 BCA Final Year Student  
+- 💻 Full Stack Developer (React + Node.js)  
+- 🧠 Strong in **C++ & DSA**  
 - 🚀 Building production-ready projects  
 - 🏆 Top 1% in academics  
 
@@ -46,22 +28,22 @@ Hi, I'm **Shri Bhagwan Kumar** — a Full Stack Developer focused on building sc
 ## 🚀 Projects
 
 ### 🛒 GreenCart (E-commerce)
-- Full-stack app with JWT auth  
-- Cart, Orders, Payment  
-- React + Tailwind + Node  
+- JWT Authentication + MongoDB  
+- Cart, Orders, Payment System  
+- Fully responsive UI  
 
 ### 📋 TaskPilot (Ongoing)
-- Project management system  
+- PERN stack project  
 - Role-based auth (Clerk)  
-- PERN stack  
+- Task tracking + notifications  
 
 ### 🏥 bookDoctor
 - Appointment booking system  
-- Search, filter, notifications  
+- Search, filter, real-time updates  
 
 ### 🍔 Swiggy Clone
 - Food ordering UI  
-- Cart + payment + dark mode  
+- Cart + Payment + Dark Mode  
 
 ---
 
@@ -69,41 +51,31 @@ Hi, I'm **Shri Bhagwan Kumar** — a Full Stack Developer focused on building sc
 
 <div align="center">
 
-<a href="https://en.cppreference.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=cpp" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://skillicons.dev/icons?i=js" />
-</a>
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://skillicons.dev/icons?i=react" />
-</a>
-
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=nodejs" />
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" />
-</a>
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode" width="90%" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -126,6 +98,40 @@ Hi, I'm **Shri Bhagwan Kumar** — a Full Stack Developer focused on building sc
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="mailto:official.shribhagwan7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/ShriBhagwanKumar/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </div>
 
