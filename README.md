@@ -125,6 +125,17 @@ Hi, I'm **Shri Bhagwan Kumar** — a dedicated developer focused on **real-world
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shribhagwan7/shribhagwan7/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/shribhagwan7/shribhagwan7/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
+
 ---
 
 ## 💡 Developer Quote
